@@ -1,0 +1,9 @@
+site_name: Pokémon Region Wiki
+site_description: Pokémon, locations, encounters, and trainers
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - search.suggest
+    - search.highlight
